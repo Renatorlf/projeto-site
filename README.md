@@ -1,2 +1,2 @@
 # projeto-site
- projeto de um siti criando durante o curso de guanabara
+ projeto de um site criado durante o curso de Guanabara.
