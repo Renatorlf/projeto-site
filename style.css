@@ -1,6 +1,7 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
+    fonte
 }
 
 body{
@@ -13,4 +14,8 @@ main{
     margin: auto;
     box-shadow: 3px 3px 5px rgb(46, 42, 42);
     padding: 10px;
+}
+
+h1,h2,p{
+    color: brown;
 }
